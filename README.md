@@ -15,8 +15,8 @@
     - address: /ip4/139.99.221.149/tcp/4002
       id: 3799c23842a0fbfa4acc29dda595dd03a14fa48cf38012ff
     #ocg
-    #- address: /ip4/167.71.144.137/tcp/9779
-    #  id: 730758be44ce4faa90baae1505ae483f3d2a5dac26590237
+    - address: /ip4/167.71.144.137/tcp/3933
+      id: 656201174b276bf1e81e0f3d0b3bc3343569f0314435564e
     #markus
     - address: /ip4/185.161.193.61/tcp/9030
       id: ada4cafebabecafebabecafebabecafebabecafebabe4ada
